@@ -1,3 +1,4 @@
+```
 # hey, i'm darsh 👋
 
 student developer trying to become genuinely good at software.
@@ -55,3 +56,4 @@ drop me a mail at darshsinghal.yay@gmail.com
 ---
 
 ps: please stop using openclaw. it uses so much AI that companies will think demand is higher, buy more RAM, and then DDR5 prices go up again. i'm watching you. RAHHHHHHH
+```
