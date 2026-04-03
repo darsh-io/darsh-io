@@ -36,8 +36,7 @@ student developer trying to become genuinely good at software.
 
 ## currently building
 
-- a rubik's cube solving algorithm  
-  (previous attempt relied on a premade solution — this one won’t)
+- nil
 
 ---
 
