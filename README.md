@@ -36,7 +36,7 @@ student developer trying to become genuinely good at software.
 
 ## currently building
 
-- nil
+- A RAG System that (may or may not) link to major LLM providers to optimize token usage.
 
 ---
 
