@@ -77,7 +77,7 @@ student dev trying to get actually good at software (not just “tutorial comple
 ## 📫 contact
 
 📧 [darshsinghal.yay@gmail.com](mailto:darshsinghal.yay@gmail.com)
-🔗 linkedin: https://linkedin.com/in/Darsh Singhal
+🔗 linkedin: https://www.linkedin.com/in/darsh-singhal-1b68923b4/
 
 ---
 
