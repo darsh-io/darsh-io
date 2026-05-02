@@ -81,4 +81,4 @@ student dev trying to get actually good at software (not just “tutorial comple
 
 ---
 
-![visitors](https://komarev.com/ghpvc/?username=darsh-io\&color=3)
+[![](https://komarev.com/ghpvc/?username=darsh-io&icon=0&color=0)](https://visitcount.itsvg.in)
