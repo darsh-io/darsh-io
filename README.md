@@ -18,6 +18,7 @@ student dev trying to get actually good at software (not just “tutorial comple
 ## 🛠️ currently building
 
 * a **RAG system** that may or may not connect to multiple LLMs to minmax token usage
+* an **image compression format** that is smaller than JPEG AND keeps structure intact
 
 ---
 
