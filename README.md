@@ -25,7 +25,7 @@ student dev trying to get actually good at software (not just “tutorial comple
 ## 🚀 notable stuff
 
 * built a custom **tetra-layered cipher** (completely unnecessary, therefore worth it)
-* made / co-made some interesting “advantages” in games 👀
+* made / co-made some interesting “advantages” in games 👀 *aggresive coughing*
 * built a fast-paced **2D local 1v1 unity game**
 * created a few ~~horrible~~ experimental AIs
 * built random things with lego 51515 because why not
