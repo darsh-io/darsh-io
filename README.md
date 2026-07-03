@@ -17,8 +17,7 @@ student dev trying to get actually good at software (not just “tutorial comple
 
 ## 🛠️ currently building
 
-* a **RAG system** that may or may not connect to multiple LLMs to minmax token usage
-* an **image compression format** that is smaller than JPEG AND keeps structure intact
+* a **school-based AI learning platform** which seamlessly integrates your school's coursework into your class using RAG and other important technologes.
 
 ---
 
