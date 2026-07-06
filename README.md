@@ -24,7 +24,7 @@ student dev trying to get actually good at software (not just “tutorial comple
 ## 🚀 notable stuff
 
 * built a custom **tetra-layered cipher** (completely unnecessary, therefore worth it)
-* made / co-made some interesting “advantages” in games 👀 *aggresive coughing*
+* made / co-made some interesting “tools” in games 👀 *aggresive coughing*
 * built a fast-paced **2D local 1v1 unity game**
 * created a few ~~horrible~~ experimental AIs
 * built random things with lego 51515 because why not
@@ -61,11 +61,6 @@ student dev trying to get actually good at software (not just “tutorial comple
 
 ---
 
-## 🏆 trophies
-
-![](https://github-profile-trophy.vercel.app/?username=darsh-io\&theme=radical\&no-frame=false\&no-bg=true\&margin-w=4)
-
----
 
 ## ⚡ fun facts
 
@@ -76,10 +71,11 @@ student dev trying to get actually good at software (not just “tutorial comple
 
 ## 📫 contact
 
-📧 [darsh@singhals.org](mailto:darsh@singhals.org)
-🔗 linkedin: https://www.linkedin.com/in/darsh-singhal-1b68923b4/
+📧 [Email](mailto:darsh@singhals.org)
+🔗 [LinkedIn](https://www.linkedin.com/in/darsh-singhal-1b68923b4/)
 
 ---
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=darsh-io.visitor-badge&left_text=popularity%20index%3A&left_color=%23000000&right_color=%23006eff&logo=github)
-```* I **might** or **might not** have "accidentally" made myself more popular.```
+![visitors](...)
+
+<sub>I <b>might</b> or <b>might not</b> have "accidentally" made myself more popular.</sub>
