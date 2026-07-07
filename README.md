@@ -48,6 +48,7 @@ student dev trying to get actually good at software (not just “tutorial comple
 
 * c#
 * linux fundamentals (aka how not to nuke my system)
+* deployment into the real world
 
 ---
 
