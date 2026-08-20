@@ -79,4 +79,4 @@ student dev trying to get actually good at software (not just “tutorial comple
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=darsh-io.visitor-badge&left_text=popularity%20index%3A&left_color=%23000000&right_color=%23006eff&logo=github)
 
-<sub>I <b>might</b> or <b>might not</b> have "accidentally" made myself more popular.</sub>
+<sub>I <b>may</b> or <b>may</b> have "accidentally" made myself more popular.</sub>
