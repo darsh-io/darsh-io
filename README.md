@@ -18,7 +18,7 @@ student dev trying to get actually good at software (not just “tutorial comple
 ## 🛠️ currently building
 
 * a **school-based AI learning platform** which seamlessly integrates your school's coursework into your class using RAG and other important technologes.
-
+* moving forward into learning **cybersecurity** and hopefully (?) some CVEs
 ---
 
 ## 🚀 notable stuff
