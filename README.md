@@ -1,6 +1,6 @@
-# Hi, I'm Darsh! ✨
+# hii, im darsh! ✨
 
-student dev trying to get actually good at software (not just “tutorial complete” good)
+too nerdy tech geek with no life who is simultaneously interested in stuff from cybersecurity to business-ing to coding random stuff to wild ideas...
 
 ---
 
@@ -8,29 +8,45 @@ student dev trying to get actually good at software (not just “tutorial comple
 
 * live in singapore 🇸🇬
 * know python
-* know just enough js/html/css to not be legally considered illiterate
+* find sitting on your computer at 2am because you had a random data compression idea fun
+* know just enough js/html/css to not be legally considered illiterate and can perform an XSS (in a controlled env dont worry!)
 * enjoy electronics (esp32, arduino, raspberry pi)
 * be way too invested in pc hardware
 * love games but have negative free time
+* learn by shoving yourself into the deep-end of things and (hopefully) not drowning
 
 ---
 
 ## 🛠️ currently doing
 
-* building a **school-based AI learning platform** which seamlessly integrates your school's coursework into your class using RAG and other important technologes.
-* moving forward into learning **cybersecurity** and hopefully (?) some CVEs
+* building a **school-based AI learning platform** which seamlessly integrates your school's coursework into your class using RAG and other important technologies.
+* moving forward into learning **cybersecurity** and hopefully (?) some CVEs 👀
+
 ---
 
-## 🚀 notable stuff
+## 🧪 experiments & questionable decisions & random thoughts
 
-* built a custom **tetra-layered cipher** (completely unnecessary, therefore worth it)
-* made / co-made some interesting “tools” in games 👀 *aggresive coughing*
+* tried to learn assembly for fun (regretted it, but at least i now know what add, mov, cmp, jmp, push, pop, call and ret is...)
+* thought that TECHNICALLY if pi contains every possible finite digit sequence, you could theoretically store data as "where in pi does this sequence start?" and then immediately wondered whether this was useful or would need all of quantum computing to be viable
+* wondered whether you could represent images using Fourier-like curves for each colour region instead of pixels (i dont think im doing this id keep my sanity away from math for now)
+* what if you could emulate an anti-cheat's communication with a game server to make everything look "OK" while doing absolutely NOT OK things locally (apparently... deriving stuff from 1st principle seems to be something im not terrible at!)
+* what if you gave an agentic harness the ability to edit its own code
+* what if you made a pointer point to another pointer which points back to the 1st pointer (yes this perfectly demonstrates my inadequacy in low-level stuff)
+---
+
+## 🚀 notable stuff (that somehow came out of the questionable desicions)
+
+* built a custom **tetra-layered cipher** (completely unnecessary and inflates size 10x, therefore worth it!)
+* made some interesting “tools” for games 👀 *aggressive coughing*
 * built a fast-paced **2D local 1v1 unity game**
 * created a few ~~horrible~~ experimental AIs
 * built random things with lego 51515 because why not
 * created a program that turns any computer into a ~~fire hazard~~ space heater (definitely not a fork bomb)
-
+* built a really funny online 3D egg shooting chicken FPS game
+* built a full RAG pipeline so that i could eventually realize (and sulk) how much ahead notebookLM is
 ---
+
+
 
 ## 💻 tech stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
@@ -46,6 +62,7 @@ student dev trying to get actually good at software (not just “tutorial comple
 
 ## 📚 currently learning
 
+* sighbersecurity
 * c#
 * linux fundamentals (aka how not to nuke my system)
 * deployment into the real world
@@ -65,8 +82,8 @@ student dev trying to get actually good at software (not just “tutorial comple
 
 ## ⚡ fun facts
 
-* first thing i do on any computer: open task manager
-* ask me about cpus or gpus and prepare for a TED talk
+* first thing i do on any computer: open task manager (and check specs and complain that you only have 8 gb of ram on windows 11)
+* ask me about cpus or gpus and prepare for a TED talk (opinions, you see.)
 
 ---
 
