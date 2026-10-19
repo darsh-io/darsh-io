@@ -8,6 +8,7 @@ too nerdy tech geek with no life who is simultaneously interested in stuff from 
 
 * live in singapore 🇸🇬
 * know python
+* love cybersecurity
 * find sitting on your computer at 2am because you had a random data compression idea fun
 * know just enough js/html/css to not be legally considered illiterate and can perform an XSS (in a controlled env dont worry!)
 * enjoy electronics (esp32, arduino, raspberry pi)
@@ -19,8 +20,8 @@ too nerdy tech geek with no life who is simultaneously interested in stuff from 
 
 ## 🛠️ currently doing
 
-* building a **school-based AI learning platform** which seamlessly integrates your school's coursework into your class using RAG and other important technologies.
-* moving forward into learning **cybersecurity** and hopefully (?) some CVEs 👀
+* building a **study guy** (idk about the name tbh) which aims to become the one-stop tool for ALL revision and studying for school
+* doing **cybersecurity** and **vulnerability research** and actively working with **SingCERT** for disclosure of my first vulnerabilities! (patched upstream alr)
 
 ---
 
@@ -32,18 +33,21 @@ too nerdy tech geek with no life who is simultaneously interested in stuff from 
 * what if you could emulate an anti-cheat's communication with a game server to make everything look "OK" while doing absolutely NOT OK things locally (apparently... deriving stuff from 1st principle seems to be something im not terrible at!)
 * what if you gave an agentic harness the ability to edit its own code
 * what if you made a pointer point to another pointer which points back to the 1st pointer (yes this perfectly demonstrates my inadequacy in low-level stuff)
+* what if i try making my own ICE and transmission and gearbox and basically reinvent the car
 ---
 
-## 🚀 notable stuff (that somehow came out of the questionable desicions)
+## 🚀 notable stuff (that somehow came out of the questionable decisions)
 
 * built a custom **tetra-layered cipher** (completely unnecessary and inflates size 10x, therefore worth it!)
-* made some interesting “tools” for games 👀 *aggressive coughing*
+* made some interesting _“tools”_ for games 👀 *aggressive coughing*
 * built a fast-paced **2D local 1v1 unity game**
 * created a few ~~horrible~~ experimental AIs
 * built random things with lego 51515 because why not
 * created a program that turns any computer into a ~~fire hazard~~ space heater (definitely not a fork bomb)
 * built a really funny online 3D egg shooting chicken FPS game
 * built a full RAG pipeline so that i could eventually realize (and sulk) how much ahead notebookLM is
+* found vulnerabilities in real software with big potential impact (working with relevant organizations to see how much can be made public)
+* built a really bad 2 speed gearbox with just lego 51515 that probably wouldn't be considered a gearbox but whatever
 ---
 
 
@@ -63,7 +67,7 @@ too nerdy tech geek with no life who is simultaneously interested in stuff from 
 ## 📚 currently learning
 
 * sighbersecurity
-* c#
+* c
 * linux fundamentals (aka how not to nuke my system)
 * deployment into the real world
 
